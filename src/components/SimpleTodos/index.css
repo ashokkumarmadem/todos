@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.simpleTodoContainer {
+  background-color:  #ffc2a0;
+  padding: 40px;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  width: 80vw;
+}
+.heading {
+  color: #ff8542;
+  font-family: Roboto;
+  font-size: 35px;
+}
+.todos-list-container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
